@@ -2,37 +2,38 @@
 
 # Daniel
 
-**17y · software & cybersecurity student**
+**17 anos · estudante de programação e cibersegurança**
 
-`CS50x Harvard` · `Google Cybersecurity - Coursera` · `Python` · `C` · `JavaScript`
+`CS50x - Harvard` · `Google Cybersecurity - Coursera` · `Python` · `C` · `JavaScript`
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=900&color=9CA3AF&center=true&vCenter=true&width=600&lines=building+things+with+code;learning+cybersecurity;studying+CS50x;always+debugging%2C+always+improving" alt="typing animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=900&color=9CA3AF&center=true&vCenter=true&width=650&lines=criando+projetos+com+código;estudando+cibersegurança;aprendendo+com+prática;sempre+debugando%2C+sempre+evoluindo" alt="typing animation" />
 
 </div>
 
 ---
 
-## about
+## sobre mim
 
 ```txt
-name      Daniel
-age       17
-focus     software development & cybersecurity
-learning  CS50x Harvard + Google Cybersecurity
+nome      Daniel
+idade     17
+foco      desenvolvimento de software & cibersegurança
+estudos   CS50x Harvard + Google Cybersecurity
 stack     Python, C, JavaScript, Node.js, Linux
-status    building, studying, improving
+status    estudando, criando e evoluindo
 ```
 
-I’m a student interested in programming, cybersecurity, automation and practical projects.
+Sou estudante de programação e cibersegurança, com interesse em desenvolvimento, automações, bots, Linux e segurança digital.
 
-Currently learning through **CS50x by Harvard** and the **Google Cybersecurity Certificate on Coursera**.
-I like building small tools, bots, scripts and experiments while improving my logic, code quality and security mindset.
+Atualmente estou estudando pelo **CS50x de Harvard** e pelo curso de **Cybersecurity do Google pela Coursera**.
+
+Gosto de aprender criando projetos práticos, testando ideias, escrevendo scripts, fazendo bots e melhorando minha lógica com código.
 
 ---
 
-## stack
+## tecnologias
 
 <div align="center">
 
@@ -42,30 +43,32 @@ I like building small tools, bots, scripts and experiments while improving my lo
 
 ---
 
-## currently learning
+## estudando agora
 
 ```txt
-> computer science fundamentals
-> cybersecurity basics
-> Python scripting
-> C programming
+> fundamentos da ciência da computação
+> lógica de programação
+> cibersegurança
+> Python
+> linguagem C
 > JavaScript / Node.js
-> Linux environment
-> automation and bots
+> Linux
+> automações e bots
 ```
 
 ---
 
-## interests
+## interesses
 
 ```txt
-cybersecurity
-backend development
-automation
-discord bots
+cibersegurança
+backend
+automação
+bots para discord
 linux
 open-source
-problem solving
+scripts
+resolução de problemas
 ```
 
 ---
@@ -82,7 +85,7 @@ problem solving
 
 ---
 
-## activity
+## atividade
 
 <div align="center">
 
@@ -92,26 +95,34 @@ problem solving
 
 ---
 
-## projects
+## projetos
 
-Most of my repositories are part of my learning process.
+Meus repositórios fazem parte da minha evolução como programador.
 
 ```txt
-some are tests
-some are experiments
-some are tools
-all of them are progress
+alguns são testes
+alguns são estudos
+alguns são experimentos
+alguns são ferramentas
+todos são progresso
 ```
 
 ---
 
-## contact
+## contato
+
+```txt
+github    github.com/1gcl
+discord   15on
+```
 
 <div align="center">
 
 <a href="https://github.com/1gcl">
-  <img src="https://img.shields.io/badge/github-1gcl-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-1gcl-0d1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+<img src="https://img.shields.io/badge/Discord-15on-0d1117?style=for-the-badge&logo=discord&logoColor=white" />
 
 </div>
 
@@ -120,7 +131,7 @@ all of them are progress
 <div align="center">
 
 ```txt
-"learning by building."
+"aprendendo construindo."
 ```
 
 </div>
