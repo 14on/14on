@@ -73,13 +73,22 @@ resolução de problemas
 
 ---
 
+## projetos em destaque
+
+```txt
+RIFT Bot Geral     bot multifuncional para Discord
+RIFT Music        bot de música para Discord
+```
+
+---
+
 ## github
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=1gcl&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e5e7eb&text_color=9ca3af&icon_color=9ca3af" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=1gcl&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e5e7eb&text_color=9ca3af&icon_color=9ca3af&include_all_commits=true&count_private=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1gcl&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e5e7eb&text_color=9ca3af" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1gcl&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e5e7eb&text_color=9ca3af&include_all_commits=true&count_private=true" />
 
 </div>
 
@@ -95,6 +104,16 @@ resolução de problemas
 
 ---
 
+## contribuições
+
+```txt
+incluindo contribuições públicas
+incluindo contribuições privadas quando ativadas no GitHub
+incluindo commits de todos os repositórios disponíveis
+```
+
+---
+
 ## projetos
 
 Meus repositórios fazem parte da minha evolução como programador.
@@ -105,6 +124,13 @@ alguns são estudos
 alguns são experimentos
 alguns são ferramentas
 todos são progresso
+```
+
+Atualmente meus principais projetos são:
+
+```txt
+> RIFT Bot Geral
+> RIFT Music
 ```
 
 ---
