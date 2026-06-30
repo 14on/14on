@@ -152,7 +152,7 @@ discord   15on
 <div align="center">
 
 <a href="https://github.com/1gcl">
-  <img src="https://img.shields.io/badge/GitHub-1gcl-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-14on-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <img src="https://img.shields.io/badge/Discord-15on-0d1117?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
