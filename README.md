@@ -20,7 +20,7 @@
 nome      Daniel
 idade     17
 foco      desenvolvimento de software & cibersegurança
-cursos    CS50x Harvard + Google Cybersecurity
+estudos   CS50x Harvard + Google Cybersecurity
 stack     Python, C, JavaScript, Node.js, Linux
 status    estudando, criando e evoluindo
 ```
@@ -98,7 +98,7 @@ RIFT Music        bot de música para Discord
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=1gcl&theme=dark&hide_border=true&background=0D1117&ring=9CA3AF&fire=9CA3AF&currStreakLabel=E5E7EB" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=1gcl&bg_color=0d1117&color=9ca3af&line=e5e7eb&point=9ca3af&area=true&hide_border=true" />
 
 </div>
 
@@ -108,8 +108,15 @@ RIFT Music        bot de música para Discord
 
 ```txt
 incluindo contribuições públicas
-incluindo contribuições privadas quando ativadas no GitHub
 incluindo commits de todos os repositórios disponíveis
+contribuições privadas aparecem quando ativadas no GitHub
+```
+
+Para mostrar contribuições privadas no perfil:
+
+```txt
+GitHub > Settings > Profile > Contributions & Activity
+ativar: Include private contributions on my profile
 ```
 
 ---
@@ -145,10 +152,10 @@ discord   15on
 <div align="center">
 
 <a href="https://github.com/1gcl">
-  <img src="https://img.shields.io/badge/GitHub-1gcl-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-1gcl-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-<img src="https://img.shields.io/badge/Discord-15on-0d1117?style=for-the-badge&logo=discord&logoColor=white" />
+<img src="https://img.shields.io/badge/Discord-15on-0d1117?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 
 </div>
 
