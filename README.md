@@ -46,11 +46,6 @@ Estudante de programação e cibersegurança. Aprendo na prática, desenvolvendo
 
 <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=14on&theme=github_dark" alt="Gráfico de atividade e contribuições no GitHub" />
 
-<br>
-
-<img height="168" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=14on&theme=github_dark" alt="Estatísticas do GitHub" />
-<img height="168" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=14on&theme=github_dark" alt="Linguagens dos repositórios" />
-
 </div>
 
 ### contato
