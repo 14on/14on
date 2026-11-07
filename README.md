@@ -27,6 +27,16 @@ Estudante de programação e cibersegurança. Aprendo criando bots, scripts e au
 - **RIFT Bot Geral** — bot multifuncional para Discord
 - **RIFT Music** — bot de música para Discord
 
+### github
+
+<div align="center">
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=14on&theme=github_dark" alt="Estatísticas do GitHub" />
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=14on&theme=github_dark" alt="Linguagens mais utilizadas nos repositórios" />
+
+</div>
+
 ### contato
 
 Discord: `15on` · GitHub: [14on](https://github.com/14on)
