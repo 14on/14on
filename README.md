@@ -29,23 +29,6 @@ Estudante de programação e cibersegurança. Aprendo na prática, desenvolvendo
 
 ---
 
-### projetos
-
-<table>
-  <tr>
-    <td width="50%">
-      <strong>RIFT Bot Geral</strong><br>
-      <sub>Bot multifuncional para Discord</sub>
-    </td>
-    <td width="50%">
-      <strong>RIFT Music</strong><br>
-      <sub>Bot de música para Discord</sub>
-    </td>
-  </tr>
-</table>
-
----
-
 ### atividade no github
 
 <div align="center">
