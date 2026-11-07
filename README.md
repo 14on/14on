@@ -17,6 +17,8 @@
 
 Estudante de programação e cibersegurança. Aprendo na prática, desenvolvendo bots, scripts e automações.
 
+---
+
 ### tecnologias
 
 <div align="center">
@@ -24,6 +26,8 @@ Estudante de programação e cibersegurança. Aprendo na prática, desenvolvendo
 <img src="https://skillicons.dev/icons?i=python,c,js,nodejs,linux,git,github&perline=7" alt="Python, C, JavaScript, Node.js, Linux, Git e GitHub" />
 
 </div>
+
+---
 
 ### projetos
 
@@ -40,6 +44,8 @@ Estudante de programação e cibersegurança. Aprendo na prática, desenvolvendo
   </tr>
 </table>
 
+---
+
 ### atividade no github
 
 <div align="center">
@@ -47,6 +53,8 @@ Estudante de programação e cibersegurança. Aprendo na prática, desenvolvendo
 <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=14on&theme=github_dark" alt="Gráfico de atividade e contribuições no GitHub" />
 
 </div>
+
+---
 
 ### contato
 
