@@ -23,7 +23,7 @@ Estudante de programação e cibersegurança. Aprendo na prática, desenvolvendo
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,js,nodejs,linux,git,github&perline=7" alt="Python, C, JavaScript, Node.js, Linux, Git e GitHub" />
+<img src="https://skillicons.dev/icons?i=python,c,js,nodejs,linux,aws,git,github&perline=8" alt="Python, C, JavaScript, Node.js, Linux, AWS, Git e GitHub" />
 
 </div>
 
